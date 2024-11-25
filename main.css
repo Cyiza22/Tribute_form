@@ -45,3 +45,18 @@ figcaption{
 h3{
     margin: 40px auto;
 }
+ul li{
+    margin:22px auto;
+}
+.quote{
+    margin: 30px auto;
+    font-style: italic;
+}
+.author{
+    text-align:start;
+}
+.footer{
+    text-align: center;
+    margin: 50px auto;
+    font-weight:700
+}
